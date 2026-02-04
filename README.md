@@ -115,8 +115,9 @@ Dragon life: 22 / 28
 
 ## 👤 Author
 
-**Your Name**  
-University Project - [Year/Semester]
+**Dimitra Dodopoulou** 
+IEK AKMI - Programming Course
+2025/2026 Academic Year
 
 ## 📝 License
 
