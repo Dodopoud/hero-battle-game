@@ -116,7 +116,7 @@ Dragon life: 22 / 28
 ## 👤 Author
 
 **Dimitra Dodopoulou** 
-IEK AKMI - Programming Course
+IEK AKMI Student - Programming Course
 2025/2026 Academic Year
 
 ## 📝 License
